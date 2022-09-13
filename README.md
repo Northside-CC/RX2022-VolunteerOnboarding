@@ -121,6 +121,8 @@ Each Connection Opportunity will need an attribute added to it.
 
 ### Triggers
 Now that the workflows are imported, we can setup the different triggers that are needed to make all of this work together.
+<img width="1541" alt="image" src="https://user-images.githubusercontent.com/66277785/189811741-f8d8335d-b913-4bd6-a867-7fb012b19484.png">
+
 <!--
 #### Triggers
 1. Trigger on Connection Request Created
